@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #FFFAFA;
+  color: black;
+  font-size: 30px;
+}
+
+#section-left{
+	width: 80%;
+	height: 100%;
+	float: left;
+}
+
+#section-right{
+	width: 20%;
+	height: 100%;
+	float: right;
+}
+
+.image {
+	width: 150px;
+	height: 150px;
+  	padding-left: 30px;
+  	padding-top: 30px;
+}
